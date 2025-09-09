@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Input {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);//in this statement use for fetch data from user
         // String name = sc.nextLine();//There Are two types of input (Next
         // ,NextLine,nextFloat etc..) next is use fot one word and next line is fetch
         // whole line of input
